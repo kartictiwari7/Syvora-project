@@ -1,4 +1,4 @@
-# 🚀  DevOps Assignment — Node.js Web Server + CI/CD + Kubernetes + Monitoring
+# 🚀  DevOps Project — Node.js Web Server + CI/CD + Kubernetes + Monitoring
 
 ## 👤 Author
 **Name:** Kartikey Tiwari  
